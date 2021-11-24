@@ -1,0 +1,17 @@
+    O padrão Strategy ajuda a gerenciar toda complexidade imposta pelas lógicas condicionais.
+Um dos pré-requisitos para o Strategy é uma estrutura de herança onde cada subclasse específica
+contém uma variação do algoritmo. Assim, o padrão Strategy possui diversos benefícios como 
+clarificar algoritmos ao diminuir ou remover lógica condicional, simplificar uma classe ao 
+mover variações de um algoritmo para uma hierarquia, e habilitar um algoritmo para ser 
+substituído por outro em tempo de execução.
+
+Aplicabilidade 
+Em resumo o padrão Strategy pode ser utilizado quando se tem as seguintes situações:
+
+Quando muitas classes relacionadas diferem apenas no seu comportamento;
+
+Quando necessita-se de variantes de um algoritmo;
+Quando se precisa ocultar do usuário a exposição das estruturas de dados complexas, específicas do algoritmo;
+Quando uma classe define muitos comportamentos e por sua vez eles aparecem como diversos “IFs”.
+com isso esses comandos condicionais são movidos para sua própria classe Strategy.
+ 

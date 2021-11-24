@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Strategy.Impostos
 {
-    class ICCC
+    public class ICCC
     {
+        public double Calcula(Orcamento orcamento)
+        {
+            return orcamento.Valor * 0.5;
+        }
     }
 }
