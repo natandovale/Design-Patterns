@@ -7,7 +7,7 @@ namespace StrategyAplication.CalcularPagamentoDesconto.Interface
 {
     public interface ICalcularDescontoStrategy
     {
-        int TipoDesconto { get; }
+        int CodigoTipoDesconto { get; }
         double Calcula(List<Produto> produtos);
     }
 }

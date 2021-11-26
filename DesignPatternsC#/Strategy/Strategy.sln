@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy.csproj", "{49B3D77C-0665-46F4-B159-157EFC6F14DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyAplication", "StrategyAplication\StrategyAplication.csproj", "{CFD354F3-5FB1-48CB-8F93-BD2F4E999E94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyAplication", "StrategyAplication\StrategyAplication.csproj", "{CFD354F3-5FB1-48CB-8F93-BD2F4E999E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Investment", "Investment\Investment.csproj", "{4ED8F9C4-48B1-423F-A326-4606A9E94049}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CFD354F3-5FB1-48CB-8F93-BD2F4E999E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFD354F3-5FB1-48CB-8F93-BD2F4E999E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFD354F3-5FB1-48CB-8F93-BD2F4E999E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED8F9C4-48B1-423F-A326-4606A9E94049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED8F9C4-48B1-423F-A326-4606A9E94049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED8F9C4-48B1-423F-A326-4606A9E94049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED8F9C4-48B1-423F-A326-4606A9E94049}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

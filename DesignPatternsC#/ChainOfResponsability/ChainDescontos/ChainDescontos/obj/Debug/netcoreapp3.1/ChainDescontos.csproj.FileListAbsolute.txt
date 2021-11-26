@@ -1,0 +1,14 @@
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\ChainOfResponsability\ChainDescontos\ChainDescontos\obj\Debug\netcoreapp3.1\ChainDescontos.csproj.AssemblyReference.cache
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\ChainOfResponsability\ChainDescontos\ChainDescontos\obj\Debug\netcoreapp3.1\ChainDescontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\ChainOfResponsability\ChainDescontos\ChainDescontos\obj\Debug\netcoreapp3.1\ChainDescontos.AssemblyInfoInputs.cache
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\ChainOfResponsability\ChainDescontos\ChainDescontos\obj\Debug\netcoreapp3.1\ChainDescontos.AssemblyInfo.cs
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\ChainOfResponsability\ChainDescontos\ChainDescontos\obj\Debug\netcoreapp3.1\ChainDescontos.csproj.CoreCompileInputs.cache
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\ChainOfResponsability\ChainDescontos\ChainDescontos\bin\Debug\netcoreapp3.1\ChainDescontos.exe
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\ChainOfResponsability\ChainDescontos\ChainDescontos\bin\Debug\netcoreapp3.1\ChainDescontos.deps.json
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\ChainOfResponsability\ChainDescontos\ChainDescontos\bin\Debug\netcoreapp3.1\ChainDescontos.runtimeconfig.json
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\ChainOfResponsability\ChainDescontos\ChainDescontos\bin\Debug\netcoreapp3.1\ChainDescontos.runtimeconfig.dev.json
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\ChainOfResponsability\ChainDescontos\ChainDescontos\bin\Debug\netcoreapp3.1\ChainDescontos.dll
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\ChainOfResponsability\ChainDescontos\ChainDescontos\bin\Debug\netcoreapp3.1\ChainDescontos.pdb
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\ChainOfResponsability\ChainDescontos\ChainDescontos\obj\Debug\netcoreapp3.1\ChainDescontos.dll
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\ChainOfResponsability\ChainDescontos\ChainDescontos\obj\Debug\netcoreapp3.1\ChainDescontos.pdb
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\ChainOfResponsability\ChainDescontos\ChainDescontos\obj\Debug\netcoreapp3.1\ChainDescontos.genruntimeconfig.cache

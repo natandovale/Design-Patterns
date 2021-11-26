@@ -16,17 +16,14 @@ namespace Investment.Business
             _strategies = strategies;
         }
 
-        public void RealizaCalculo(Conta conta, int tipoDesconto)
+        public void RealizaCalculo(Conta conta, int tipoInvestimento)
         {
-            var valorInvestimento = GetTypeStrategy(_strategies, tipoDesconto).Calcula(conta.Saldo);
+            var valorInvestimento = GetTypeStrategy(_strategies, tipoInvestimento).Calcula(conta.Saldo);
             conta.AdicionaInvestimento(valorInvestimento);
             Console.WriteLine(conta.Saldo);
         }
 
-        private IInvestmentStrategy GetTypeStrategy(List<IInvestmentStrategy> _strategies, int codigoTipoPerfil)
-        {
-            var strategy = _strategies.FirstOrDefault(s => s.CodigoTipoPerfil == codigoTipoPerfil);
-            return strategy;
-        }
+        private IInvestmentStrategy GetTypeStrategy(List<IInvestmentStrategy> _strategies, int codigoTipoPerfil) 
+            => _strategies.FirstOrDefault(s => s.CodigoTipoPerfil == codigoTipoPerfil);
     }
 }

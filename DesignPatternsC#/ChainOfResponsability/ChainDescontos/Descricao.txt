@@ -1,0 +1,8 @@
+Chain of Responsibility tem como principal função evitar a dependência entre 
+um objeto receptor e um objeto solicitante. 
+Consiste em uma série de objetos receptores e de objetos de solicitação, 
+onde cada objeto de solicitação possui uma lógica interna que separa quais são 
+tipos de objetos receptores que podem ser manipulados. 
+O restante é passado para o próximo objeto de solicitação da cadeia.
+Devido a isso é um padrão que utiliza a ideia de baixo acoplamento 
+por permitir que outros objetos da cadeia tenham a oportunidade de tratar uma solicitação

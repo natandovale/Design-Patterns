@@ -24,7 +24,7 @@ namespace StrategyAplication.Business
 
         private ICalcularDescontoStrategy GetTypeStrategy(List<ICalcularDescontoStrategy>  _strategies , int tipoDesconto)
         {
-            var strategy = _strategies.FirstOrDefault(s => s.TipoDesconto == tipoDesconto);
+            var strategy = _strategies.FirstOrDefault(s => s.CodigoTipoDesconto == tipoDesconto);
             return strategy;
         }
     }

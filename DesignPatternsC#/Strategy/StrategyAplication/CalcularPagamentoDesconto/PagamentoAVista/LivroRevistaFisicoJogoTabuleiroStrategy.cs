@@ -8,7 +8,7 @@ namespace StrategyAplication.CalcularPagamento.PagamentoAVista
 {
     class LivroRevistaFisicoJogoTabuleiroStrategy : ICalcularDescontoStrategy
     {
-        public int TipoDesconto => 1;
+        public int CodigoTipoDesconto => 1;
 
         public double Calcula(List<Produto> produtos)
         {
