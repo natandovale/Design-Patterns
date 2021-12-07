@@ -1,0 +1,16 @@
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net5.0\TemplateMethod.exe
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net5.0\TemplateMethod.deps.json
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net5.0\TemplateMethod.runtimeconfig.json
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net5.0\TemplateMethod.runtimeconfig.dev.json
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net5.0\TemplateMethod.dll
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net5.0\ref\TemplateMethod.dll
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net5.0\TemplateMethod.pdb
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.csproj.AssemblyReference.cache
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.AssemblyInfo.cs
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.dll
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\ref\TemplateMethod.dll
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.pdb
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net5.0\TemplateMethod.genruntimeconfig.cache
