@@ -5,4 +5,7 @@ onde cada objeto de solicitação possui uma lógica interna que separa quais s�
 tipos de objetos receptores que podem ser manipulados. 
 O restante é passado para o próximo objeto de solicitação da cadeia.
 Devido a isso é um padrão que utiliza a ideia de baixo acoplamento 
-por permitir que outros objetos da cadeia tenham a oportunidade de tratar uma solicitação
+por permitir que outros objetos da cadeia tenham a oportunidade de tratar uma solicitação.
+A intenção deste padrão é evitar o acoplamento do remetente de uma solicitação ao seu receptor, 
+ao dar a mais de um objeto a oportunidade de tratar essa solicitação. Encadear os objetos receptores, 
+passando a solicitação ao longo da cadeia até que um objeto a trate
