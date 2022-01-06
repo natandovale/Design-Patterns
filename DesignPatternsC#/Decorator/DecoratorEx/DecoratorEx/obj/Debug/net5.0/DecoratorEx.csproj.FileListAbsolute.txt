@@ -1,0 +1,16 @@
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\bin\Debug\net5.0\DecoratorEx.exe
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\bin\Debug\net5.0\DecoratorEx.deps.json
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\bin\Debug\net5.0\DecoratorEx.runtimeconfig.json
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\bin\Debug\net5.0\DecoratorEx.runtimeconfig.dev.json
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\bin\Debug\net5.0\DecoratorEx.dll
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\bin\Debug\net5.0\ref\DecoratorEx.dll
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\bin\Debug\net5.0\DecoratorEx.pdb
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\obj\Debug\net5.0\DecoratorEx.csproj.AssemblyReference.cache
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\obj\Debug\net5.0\DecoratorEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\obj\Debug\net5.0\DecoratorEx.AssemblyInfoInputs.cache
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\obj\Debug\net5.0\DecoratorEx.AssemblyInfo.cs
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\obj\Debug\net5.0\DecoratorEx.csproj.CoreCompileInputs.cache
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\obj\Debug\net5.0\DecoratorEx.dll
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\obj\Debug\net5.0\ref\DecoratorEx.dll
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\obj\Debug\net5.0\DecoratorEx.pdb
+C:\Repositorios\Estudos\DesignPatterns\DesignPatternsC#\Decorator\DecoratorEx\DecoratorEx\obj\Debug\net5.0\DecoratorEx.genruntimeconfig.cache

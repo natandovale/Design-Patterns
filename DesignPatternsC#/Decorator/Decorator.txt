@@ -1,0 +1,2 @@
+O padrão Decorator adiciona funcionalidades a objetos de forma dinâmica (em tempo de execução), permitindo assim a 
+expansão do objeto de maneira mais flexível.
