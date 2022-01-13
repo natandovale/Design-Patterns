@@ -8,7 +8,7 @@ namespace DecoratorEx
     {
         static void Main(string[] args)
         {
-            Imposto iss = new ISS(new ICMS());
+            Imposto iss = new ImpostoMuitoAlto(new ISS(new ICMS()));
 
             Orcamento orcamento = new Orcamento(500);
 
